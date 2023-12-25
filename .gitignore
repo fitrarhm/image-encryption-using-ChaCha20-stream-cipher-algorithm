@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Evironment
+pyenv/
+
+# Config
+.vscode
+
+# Etc
+bash.exe.stackdump
+
+# Build/dist
+build/
+dist/
