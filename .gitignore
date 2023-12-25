@@ -5,13 +5,14 @@ __pycache__/
 
 # Virtual Evironment
 pyenv/
+pyexe/
 
 # Config
 .vscode
 
-# Etc
-bash.exe.stackdump
-
 # Build/dist
 build/
 dist/
+
+# etc
+bash.exe.stackdump

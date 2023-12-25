@@ -1,12 +1,12 @@
 # README
 
-This is my project repository where i create gui program to securing image using Cryptography Stream Cipher Algorithm called ChaCha20.
+ChaCha20 Image encryption is an encryption program that using ChaCha20 stream cipher algorithm to securing image data. This program using PyQt5 as GUI library, which is quite similar to what native Windows have. Some of the images format that are supported by this program are : JPG, JPEG, PNG, BMP.
 
 ## 1. Requirements
 
 - Windows 10 (Tested)
 - Python 3.9.6 (Tested)
-- virtualenv (optional)
+- virtualenv (Optional but recommended)
 - Internet connection (Mandatory)
 
 ## 2. Install & Create VirtualEnv (Optional)
@@ -21,11 +21,12 @@ or
 
 ### Create virtualenv
 
-```virtualenv PYENV```
+```virtualenv pyenv```
 
 ## 3. Activate virtualenv (Optional)
 
-```PYENV\Scripts\activate```
+On Windows
+```.\pyenv\Scripts\activate```
 
 ## 4. Install package needed from requirements.txt file
 
@@ -35,11 +36,7 @@ or
 
 ### Change Directory to Source Code, where contains main.py file
 
-```cd PROGRAM SKRIPSI FIX [source code]"```
-
-or 
-
-```cd "PROGRAM SKRIPSI FIX [source code]"```
+```cd D:\code\image-encryption-using-ChaCha20-stream-cipher-algorithm```
 
 ### Run the program
 
