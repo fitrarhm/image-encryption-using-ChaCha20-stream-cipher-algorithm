@@ -41,3 +41,7 @@ On Windows
 ### Run the program
 
 ```py main.py```
+
+![2023-12-26 05_29_24-Menu Dekripsi](https://github.com/fitrarhm/image-encryption-using-ChaCha20-stream-cipher-algorithm/assets/63356065/e861586c-1cbc-4aee-b67d-36c04a55067c)
+![2023-12-26 05_27_54-Menu Enkripsi](https://github.com/fitrarhm/image-encryption-using-ChaCha20-stream-cipher-algorithm/assets/63356065/e201a116-3b04-4f4d-8d18-8291799191cd)
+![2023-12-26 05_26_34-ChaCha20](https://github.com/fitrarhm/image-encryption-using-ChaCha20-stream-cipher-algorithm/assets/63356065/f82a3ce6-9446-4a29-a161-4caae2e0f319)
