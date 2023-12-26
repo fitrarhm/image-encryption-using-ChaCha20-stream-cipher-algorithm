@@ -28,7 +28,7 @@ def getLoc(f):
     return os.path.join(base_path, f)
 
 
-# Enkripsi UI
+# Encryption UI
 class EnkripsiUI(QWidget):
     def __init__(self):
         QWidget.__init__(self)
