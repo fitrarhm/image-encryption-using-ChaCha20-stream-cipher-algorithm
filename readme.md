@@ -1,6 +1,6 @@
-# README
+# ChaCha20 Image Encryption
 
-ChaCha20 Image encryption is an encryption program that using ChaCha20 stream cipher algorithm to securing image data. This program using PyQt5 as GUI library, which is quite similar to what native Windows have. Some of the images format that are supported by this program are : JPG, JPEG, PNG, BMP.
+ChaCha20 Image Encryption is an encryption program that using ChaCha20 stream cipher algorithm to securing image data. This program using PyQt5 as GUI library, which is quite similar to what native Windows have. Some of the images format that are supported by this program are : JPG, JPEG, PNG, BMP.
 
 ## 1. Requirements
 
@@ -42,19 +42,17 @@ On Windows
 
 ```py main.py```
 
-
 ## Results
 
-### Main menu user interface
+### Main menu
 
-![Main menu](https://github.com/fitrarhm/image-encryption-using-ChaCha20-stream-cipher-algorithm/assets/63356065/f82a3ce6-9446-4a29-a161-4caae2e0f319)
+![main menu](https://github.com/fitrarhm/image-encryption-using-ChaCha20-stream-cipher-algorithm/assets/63356065/70e12e87-32e6-4ddd-a6af-dd1c8dfa2fe8)
 
+### Encryption menu
 
-### Encryption menu interface
+![enc menu](https://github.com/fitrarhm/image-encryption-using-ChaCha20-stream-cipher-algorithm/assets/63356065/228bdc50-b93f-41a3-8cf3-6c89d2987c1a)
 
-![Encryption menu](https://github.com/fitrarhm/image-encryption-using-ChaCha20-stream-cipher-algorithm/assets/63356065/e201a116-3b04-4f4d-8d18-8291799191cd)
+### Decryption menu
 
-### Decryption menu interface
-
-![Decryption menu](https://github.com/fitrarhm/image-encryption-using-ChaCha20-stream-cipher-algorithm/assets/63356065/e861586c-1cbc-4aee-b67d-36c04a55067c)
+![dec menu](https://github.com/fitrarhm/image-encryption-using-ChaCha20-stream-cipher-algorithm/assets/63356065/e3432680-29a7-44d0-8c77-5f79df5e584d)
 
